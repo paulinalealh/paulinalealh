@@ -1,8 +1,7 @@
 ## Welcome!
-Paulina | MEX | Python SQL Excel C# Java | Aspiring Data Analyst 
+
 
 🪐 I’m currently working on a SQL project where I analyze different celestial bodies in our galaxy, the Milky Way. 🌠
-
 ✉️ Contact: lealherrerapaulina@gmail.com
   
 <!--
