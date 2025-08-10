@@ -1,7 +1,7 @@
-## Welcome!
+Hey! Paulina here. Welcome to my Github page, where you'll find all my DA projects, experiments, and whatnot. I hope you have fun browsing through my data explorations!
+Thank you for visiting! 
 
-
-🪐 I’m currently working on a SQL project where I analyze different celestial bodies in our galaxy, the Milky Way. 🌠
+🪐 I’m currently working on: a SQL project where I analyze different celestial bodies in our galaxy, the Milky Way. 🌠
 
 ✉️ Contact: lealherrerapaulina@gmail.com
   
