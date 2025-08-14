@@ -2,6 +2,12 @@ Hey! Paulina here. Welcome to my Github page, where you'll find all my DA projec
 Thank you for visiting. 
 
 ✉️ Contact: lealherrerapaulina@gmail.com
+
+Recommended free resources for learning DA:
+
+- https://www.youtube.com/@AlexTheAnalyst
+- https://www.freecodecamp.org
+- https://www.youtube.com/@KeithGalli
   
 <!--
 **paulinalealh/paulinalealh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
